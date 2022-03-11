@@ -1,0 +1,13 @@
+
+body {
+    /* background-color: #FFCACA; */
+    background-color: #FFE4E4;
+    /* color : white; */
+    margin: 0px;
+    padding: 0px;
+}
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
