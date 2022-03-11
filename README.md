@@ -19,16 +19,3 @@
 
 ### Features of the project
 - User will be authenicated through Signin Signup using mongodb, Google auth 2.0
-
-### Team Members
-| S.No.| Team Memeber's name|
-| ---- | -------------------|
-| 1    | Jaswant Chaudhary  |
-| 2    | Satya Praksh Mall  |
-| 3    | Paarug Sethi       |
-
-### Project Duration 
-- March 1, 2022 to March 12, 2022
-
-### Software Developemnt Methodlogy used to develop this project 
-- Agile 
